@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     'whitenoise.runserver_nostatic',
     
-    'tasks'
+    'tasks',
 ]
 
 MIDDLEWARE = [
